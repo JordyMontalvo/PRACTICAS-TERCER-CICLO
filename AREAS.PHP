@@ -1,4 +1,4 @@
-<?php
+
 
 $baseTri = 10; 
 $alturaTri = 8; 
